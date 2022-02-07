@@ -1,0 +1,230 @@
+
+NUMERO TOTALE DI FRASI:
+
+Il numero totale di frasi del testo Biden.txt è 253
+
+Il numero totale di frasi del testo Trump.txt è 255
+
+CONFRONTO DEI DUE TESTI:
+
+Il file Trump.txt ha più frasi di Biden.txt
+
+NUMERO DI TOKENS:
+
+Il file Biden.txt ha 5511.0 tokens
+Il file Trump.txt ha 5443.0 tokens
+
+CONFRONTO FRA TOKENS:
+
+Il file Biden.txt è piu lungo di Trump.txt
+
+LUNGHEZZA MEDIA DELLE FRASI IN TERMINI DI TOKENS:
+
+La lunghezza media in termini di token delle frasi nel Biden.txt è 21.782608695652176
+
+La lunghezza media in termini di token delle frasi nel Trump.txt è 21.345098039215685
+
+CONFRONTO:
+
+il file Biden.txt ha frasi più lunghe di Trump.txt
+
+LUNGHEZZA MEDIA IN TERMINI DI CARATTERI:
+
+Il file Biden.txt ha in media 4.095082562148431 caratteri.
+
+Il file Trump.txt ha in media 3.9329413926143673 caratteri.
+
+CONFRONTO:
+
+il file Biden.txt ha frasi con parole più lunghe di Trump.txt
+
+GRANDEZZA VOCABOLARIO
+
+La grandezza del Vocabolario del file Biden.txt è di 1354 tokens
+
+La grandezza del Vocabolario del file Trump.txt è di 1194 tokens
+
+TYPE TOKEN RATIO:
+
+Type Token Ratio del file Biden.txt è: 0.23226274723280713
+
+Type Token Ratio del file Trump.txt è: 0.20540143303325373
+
+CONFRONTO:
+
+Il file Biden.txt ha la ttr maggiore di Trump.txt
+
+DISTRIBUZIONI DELLE CLASSI DI FREQUENZA |V1|, |V5|, |V10|, ALL'AUMENTARE DEL CORPUS PER PORZIONI INCREMENTALI DI 500 TOKEN
+
+ANALISI TESTO: Biden.txt
+ANDAMENTO LESSICO:
+
+Numero tokens: 500
+HAPAX = 69
+|V5| =  11
+|V10| =  6
+
+
+Numero tokens: 1000
+HAPAX = 214
+|V5| =  28
+|V10| =  13
+
+
+Numero tokens: 1500
+HAPAX = 437
+|V5| =  47
+|V10| =  21
+
+
+Numero tokens: 2000
+HAPAX = 733
+|V5| =  70
+|V10| =  29
+
+
+Numero tokens: 2500
+HAPAX = 1113
+|V5| =  96
+|V10| =  38
+
+
+Numero tokens: 3000
+HAPAX = 1566
+|V5| =  123
+|V10| =  47
+
+
+Numero tokens: 3500
+HAPAX = 2071
+|V5| =  153
+|V10| =  56
+
+
+Numero tokens: 4000
+HAPAX = 2639
+|V5| =  184
+|V10| =  65
+
+
+Numero tokens: 4500
+HAPAX = 3287
+|V5| =  216
+|V10| =  74
+
+
+Numero tokens: 5000
+HAPAX = 4005
+|V5| =  248
+|V10| =  83
+
+
+Numero tokens: 5500
+HAPAX = 4788
+|V5| =  280
+|V10| =  92
+
+
+Numero tokens: 5511
+HAPAX = 5574
+|V5| =  312
+|V10| =  101
+
+ANALISI TESTO: Trump.txt
+ANDAMENTO LESSICO:
+
+Numero tokens: 500
+HAPAX = 131
+|V5| =  5
+|V10| =  2
+
+
+Numero tokens: 1000
+HAPAX = 329
+|V5| =  20
+|V10| =  5
+
+
+Numero tokens: 1500
+HAPAX = 587
+|V5| =  46
+|V10| =  8
+
+
+Numero tokens: 2000
+HAPAX = 880
+|V5| =  79
+|V10| =  12
+
+
+Numero tokens: 2500
+HAPAX = 1240
+|V5| =  119
+|V10| =  16
+
+
+Numero tokens: 3000
+HAPAX = 1634
+|V5| =  161
+|V10| =  20
+
+
+Numero tokens: 3500
+HAPAX = 2071
+|V5| =  203
+|V10| =  24
+
+
+Numero tokens: 4000
+HAPAX = 2551
+|V5| =  245
+|V10| =  28
+
+
+Numero tokens: 4500
+HAPAX = 3117
+|V5| =  287
+|V10| =  32
+
+
+Numero tokens: 5000
+HAPAX = 3739
+|V5| =  329
+|V10| =  36
+
+
+Numero tokens: 5443
+HAPAX = 4428
+|V5| =  371
+|V10| =  40
+
+
+MEDIA DEI SOSTANTIVI PER FRASE:
+
+In media nel testo  Biden.txt ci sono 5.043478260869565 Sostantivi
+
+In media nel testo  Trump.txt ci sono 4.349019607843137 Sostantivi
+
+MEDIA DEI VERBI PER FRASE:
+
+In media nel testo Biden.txt ci sono 2.7905138339920947 Verbi
+
+
+In media nel testo Trump.txt ci sono 2.996078431372549 Verbi
+
+CONFRONTO:
+
+Il file Trump.txt ha in media più verbi di per frase di  Biden.txt
+
+Il file Biden.txt ha in media più sostantivi di per frase di Trump.txt
+
+DENSITA' LESSICALE:
+
+La densità Lessicale di  Biden.txt è di 0.5429491048078857
+
+La densità Lessicale di  Trump.txt è di 0.5618234804329725
+
+CONFRONTO:
+
+Il file Trump.txt ha una densità lessicale più alta di  Biden.txt
+
